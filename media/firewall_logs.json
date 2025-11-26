@@ -1,0 +1,16 @@
+[
+  {
+    "TimeGenerated": "2025-10-17T10:15:00Z",
+    "DeviceID": "fw01",
+    "SourceIP": "10.1.1.5",
+    "DestinationIP": "8.8.8.8",
+    "Action": "Allow"
+  },
+  {
+    "TimeGenerated": "2025-10-17T10:16:00Z",
+    "DeviceID": "fw02",
+    "SourceIP": "10.1.1.9",
+    "DestinationIP": "1.1.1.1",
+    "Action": "Block"
+  }
+]
