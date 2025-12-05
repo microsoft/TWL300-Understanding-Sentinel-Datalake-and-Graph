@@ -1,9 +1,9 @@
-title: TechWorkshop Understanding Sentinel Datalake and Graph
+title: TechWorkshop Understanding Sentinel datalake and graph
 description: 
 theme: just-the-docs
 
 aux_links:
-  "TechWorkshop Understanding Sentinel Datalake and Graph": 
+  "TechWorkshop Understanding Sentinel datalake and graph": 
     - "https://github.com/microsoft/TWL300-Understanding-Sentinel-Datalake-and-Graph"
 
 callouts_level: quiet # or loud

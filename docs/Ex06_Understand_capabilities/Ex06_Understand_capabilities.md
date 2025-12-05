@@ -30,4 +30,4 @@ has_children: true
   - Log Analytics Reader for workspace-based hot-tier queries.
 
 ## Estimated time
-**45–60 minutes**
+Duration: **45–60 minutes**

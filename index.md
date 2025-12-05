@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# TechExcel: Understanding Sentinel Datalake and Graph
+# TechExcel: Understanding Sentinel datalake and graph
 
 
 ## Course Objective:
